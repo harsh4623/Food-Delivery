@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "<Render PostgreSQL username>",
-    "password": "<Render PostgreSQL password>",
-    "database": "<Render PostgreSQL database name>",
-    "host": "<Render PostgreSQL host>",
+    "username": "food_delivery_b8ez_user",
+    "password": "kC2CEOvihcjYa1hMqDwqdCTT3zMf1Sv0",
+    "database": "food_delivery_b8ez",
+    "host": "dpg-co3fa6o21fec7390m8f0-a",
     "dialect": "postgres"
   }
 }
