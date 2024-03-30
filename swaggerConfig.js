@@ -18,12 +18,13 @@ const swaggerOptions = {
           title: 'Pricing API',
           version: '1.0.0',
           description: 'API for calculating delivery costs with dynamic pricing',
-      },
-      servers: [
-          {
-              url: 'https://food-delivery-c7oa.onrender.com/api-docs', // Replace with your actual server URL
-          },
-      ],
+      }
+    //   ,
+    //   servers: [
+    //       {
+    //           url: 'http://localhost:3000', // Replace with your actual server URL
+    //       },
+    //   ],
   },
   apis: ['./routes/*.js'], // Include all route files
 };
