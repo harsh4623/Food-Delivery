@@ -14,10 +14,11 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "food_delivery_b8ez_user",
-    "password": "kC2CEOvihcjYa1hMqDwqdCTT3zMf1Sv0",
-    "database": "food_delivery_b8ez",
-    "host": "dpg-co3fa6o21fec7390m8f0-a",
+    "username": "hp",
+    "password": "lMODXCZgPiZQ2fet1FbaYlp9aJR8JHik",
+    "database": "food_del",
+    "host": "127.0.0.1",
     "dialect": "postgres"
+    
   }
 }
