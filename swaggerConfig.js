@@ -21,7 +21,7 @@ const swaggerOptions = {
       },
       servers: [
           {
-              url: 'http://localhost:3000', // Replace with your actual server URL
+              url: 'https://food-delivery-c7oa.onrender.com/api-docs', // Replace with your actual server URL
           },
       ],
   },
